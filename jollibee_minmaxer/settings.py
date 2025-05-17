@@ -129,8 +129,6 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 # rest framework dict
 
-REST_FRAMEWORK = {
-    'DEFAULT_PERMISSION_CLASSES': ['rest_framework.permissions.AllowAny']
-}
+REST_FRAMEWORK = {"DEFAULT_PERMISSION_CLASSES": ["rest_framework.permissions.AllowAny"]}
 
 CORS_ORIGIN_ALLOW_ALL = True
