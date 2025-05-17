@@ -1,1 +1,1 @@
-"# jollibee-minmaxer" 
+"# jollibee-minmaxer"
